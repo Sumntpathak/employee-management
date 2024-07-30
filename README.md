@@ -1,5 +1,3 @@
-# employee-management
-
 # Employee Management System
 
 ## Overview
